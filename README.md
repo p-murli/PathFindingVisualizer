@@ -16,7 +16,7 @@ Use Guide
 
 Key Mappings
 
-Left Mouse Button(LMB) - First Click - Set Start Point
+Left Mouse Button(LMB) - First Click - Set Start Point \n
 Left Mouse Button(LMB) - Second Click - Set End Point
 Left Mouse Button(LMB) - After 2nd click - Place Obstacle
 Right Mouse Button(RMB) - Clear Cell
