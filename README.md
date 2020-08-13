@@ -16,14 +16,17 @@ Use Guide
 
 Key Mappings
 
-Left Mouse Button(LMB) - First Click - Set Start Point "\n"
-Left Mouse Button(LMB) - Second Click - Set End Point
-Left Mouse Button(LMB) - After 2nd click - Place Obstacle
-Right Mouse Button(RMB) - Clear Cell
-a - Start A* Search Algorithm
-d - Start Djikstra's Algorithm
-b - Start Breadth First Search Algorithm
-r - Create Random Maze. Click Multiple times to increase the density of the maze.
+|   Button	|   	|  Action 	|
+|:-:	|---	|---	|
+|   Left Mouse Button(LMB)	|   	|  Set Start Point 	|
+| Left Mouse Button(LMB) - Second Click  	|   	|  Set End Point	|
+| Left Mouse Button(LMB) - Subsequent clicks 	|   	|  Place Obstacle 	|
+|  Right Mouse Button(RMB) 	|   	|   Clear Cell 	|
+| a  	|   	|  Start A* Search Algorithm 	|
+| d  	|   	|  Start Djikstra's Algorithm 	|
+|  b 	|   	|   Start Breadth First Search Algorithm	|
+|  r 	|   	|   Create Random Maze. Click Multiple times to increase the density of the maze.	|
+
 
 
 
